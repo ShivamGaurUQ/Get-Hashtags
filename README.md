@@ -15,7 +15,7 @@
 # Some examples
 
 <img src="images/img1.png" width="300"> 
-<img src="images/img2.png" width="300" align="right" margin=-10px> 
+<img src="images/img2.png" width="300" align="right"> 
 <img src="images/img3.png" width="300"> 
-<img src="images/img4.png" width="300"> 
+<img src="images/img4.png" width="300" align="right"> 
 
