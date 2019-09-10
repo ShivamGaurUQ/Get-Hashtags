@@ -16,6 +16,6 @@
 
 <img src="images/img1.png" width="300" align="right"> 
 <img src="images/img2.png" width="300" align="right"> 
-<img src="images/img3.png" width="300" align="left"> 
-<img src="images/img4.png" width="300" align="left"> 
+<img src="images/img3.png" width="200" align="left"> 
+<img src="images/img4.png" width="200" align="left"> 
 
