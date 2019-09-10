@@ -14,11 +14,12 @@
 
 # Some examples
 <p align="center"
-<img src="images/img6.png" width="500"> 
-<img src="images/img3.png" width="500"> 
-<img src="images/img5.png" width="500"> 
-<img src="images/img2.png" width="400"> 
-<img src="images/img4.png" width="500">
+
+<img src="images/img6.png" width="400"> 
+<img src="images/img3.png" width="400"> 
+<img src="images/img5.png" width="400"> 
+<img src="images/img2.png" width="300"> 
+<img src="images/img4.png" width="400">
 
 </p>
 
