@@ -13,11 +13,12 @@
 - Application will run on local server.
 
 # Some examples
-
+<p align="center"
 <img src="images/img6.png" width="500"> 
 <img src="images/img3.png" width="500"> 
 <img src="images/img4.png" width="500"> 
 <img src="images/img5.png" width="500"> 
+</p>
 
 
 
