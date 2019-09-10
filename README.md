@@ -19,6 +19,6 @@
 <img src="images/img3.png" width="300" align="left"> 
 <img src="images/img4.png" width="350" align="left"> 
 <img src="images/img5.png" width="400" align="left"> 
-<img src="images/img6.png" width="350" align="center"> 
+<img src="images/img6.png" width="350" align="centre"> 
 
 
