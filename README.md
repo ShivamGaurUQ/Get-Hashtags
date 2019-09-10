@@ -11,3 +11,7 @@
 
 - Run app.py.
 - Application will run on local server.
+
+# Some examples
+
+![](images\img1.png)
